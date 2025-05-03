@@ -9,7 +9,10 @@ redirect_from:
 
 <div class="flex-container">
   <div class="flex-item-left" style="text-align: center;">
-    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:100%;">
+    <div class="hover-image-container" style="width: 100%;">
+      <img src="images/photo.jpg" class="main-image" alt="Profile Image">
+      <img src="images/ghibli_new.jpg" class="hover-image" alt="Hover Image">
+    </div>
   </div>
   <div class="flex-item-right" >
     <div style="text-align: center; font-size: 1em; align-items: center; color: #011f5b">
