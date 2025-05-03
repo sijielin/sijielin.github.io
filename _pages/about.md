@@ -48,7 +48,7 @@ redirect_from:
 }
 
 .profile-text-block {
-  max-width: 600px;
+  max-width: 1000px;
   font-size: 18px;
 }
 
