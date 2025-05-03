@@ -14,7 +14,7 @@ redirect_from:
   justify-content: center;
   gap: 40px;
   margin: 40px auto;
-  max-width: 1200px;
+  max-width: 1400px;
   flex-wrap: nowrap;
 }
 
