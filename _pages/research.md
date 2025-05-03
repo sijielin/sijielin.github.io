@@ -11,7 +11,7 @@ author_profile: false
 <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025 </span>  
 How does generative AI impact human creativity? Unlike many other innovations, generative AI is being used to automate specific aspects of the creative process. This paper investigates a setting where I observe all intermediate steps of visual art creation using an AI image generator. I find that, over time, artists become more efficient in using generative AI: they converge on their desired output more quickly, use fewer stopwords, and incorporate more style-related terms in their prompts. Analyzing rich prompt-level data, I show that artists construct prompts strategically, gradually adding words to prompts and changing important words earlier in the process. Using large language models, I convert output images into text and embeddings, which allows me to study whether artists converge to similar patterns as their experience accumulates. This study aims to study how generative AI shapes human creativity over time. 
 
-- **"Hiding From Generative AI"**  
+- **"Hiding From Generative AI"**
 <span style="font-size: 0.8em">Revise and Resubmit,</span> <span style="font-weight: bold; font-style: italic; font-size: 0.8em;"> Quantitative Economics</span>  
 <span style="font-size: 0.8em; color: gray;">Presentations: TSE Digital Economics Conference 2025; University of Toronto 2024; NASM-ES 2024; ESIF Economics and AI+ML 2024; EEA-ESEM 2024; ALEA 2024; CEA 2024  </span>  
 [Paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4793782) | [Slides](https://sijielin.github.io/files/DA_slides.pdf)  
