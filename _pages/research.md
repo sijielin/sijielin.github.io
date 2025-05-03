@@ -13,7 +13,7 @@ author_profile: false
 
 - **"Hiding From Generative AI"**  
   <span style="font-size: 0.8em;">Revise and Resubmit, <span style="font-weight: bold; font-style: italic;">Quantitative Economics</span></span>  
-  <span style="font-size: 0.8em; color: gray;">Presentations: TSE Digital Economics Conference 2025; University of Toronto 2024; NASM-ES 2024...</span>  
+  <span style="font-size: 0.8em; color: gray;">Presentations: TSE Digital Economics Conference 2025; University of Toronto 2024; NASM-ES 2024; ESIF Economics and AI+ML 2024; EEA-ESEM 2024; ALEA 2024; CEA 2024 </span>  
   [Paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4793782) | [Slides](https://sijielin.github.io/files/DA_slides.pdf)  
   How does generative Artificial Intelligence (AI) change the behaviors of content creators? I investigate the effect of an AI image generator on artists’ incentives to publish artworks using data from an online art platform, DeviantArt. On November 11 2022, DeviantArt introduced a generative AI image generator into the platform and artworks on this platform entered training data by default. Using a difference-in-differences estimation with artists who do not use AI, I show that digital artists publish 21% fewer artworks following AI’s introduction on this platform, in contrast to artisan crafts artists. This reduction could potentially hinder knowledge spillovers to other artists and AI training data availability. By matching the artworks of artists who publish both on DeviantArt and Instagram, I find that despite artists publishing fewer artworks on DeviantArt, the quality of published artworks for a given artist remains the same after the introduction of AI.
 
