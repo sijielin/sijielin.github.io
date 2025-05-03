@@ -6,6 +6,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.hover-image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-image-container img {
+  width: 100%;
+  transition: opacity 0.4s ease;
+  display: block;
+}
+
+.hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.hover-image-container:hover .hover-image {
+  opacity: 1;
+}
+
+.hover-image-container:hover .main-image {
+  opacity: 0;
+}
+</style>
 
 <div class="flex-container">
   <div class="flex-item-left" style="text-align: center;">
