@@ -14,7 +14,7 @@ redirect_from:
   justify-content: center;
   gap: 40px;
   margin-top: 40px;
-  flex-wrap: wrap;
+  flex-wrap: nowwrap;
   color: #000;
   line-height: 1.6;
 }
