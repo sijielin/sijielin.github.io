@@ -5,6 +5,8 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+description: "Sijie Lin is a Ph.D. candidate in Economics at Rotman School of Management, University of Toronto. She studies the impact of generative AI on creative industries."
+keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"]
 ---
 
 <style>
@@ -51,8 +53,8 @@ redirect_from:
 
 /* Text column */
 .profile-text-block {
-  max-width: 600px;
-  font-size: 18px;
+  max-width: 1000px;
+  font-size: 16px;
   flex: 1;
 }
 
