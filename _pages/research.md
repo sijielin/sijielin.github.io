@@ -1,12 +1,9 @@
 ---
 permalink: /research/
 title: "Research"
-author_profile: true
+author_profile: false
 ---
 
-# Research
-
-This is where you can describe your research agenda, list working papers, publications, or current projects.
 
 ## Working Papers
 
