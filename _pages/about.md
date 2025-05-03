@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Sijie Lin"
+title: ""
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 <style>
-/* Layout container */
 .profile-container {
   display: flex;
   align-items: flex-start;
@@ -15,18 +15,15 @@ redirect_from:
   gap: 40px;
   margin-top: 40px;
   flex-wrap: wrap;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #000;
   line-height: 1.6;
 }
 
-/* Left image block */
 .profile-image-block {
   max-width: 240px;
   position: relative;
 }
 
-/* Image hover logic */
 .profile-image-block img {
   width: 100%;
   height: auto;
@@ -50,15 +47,15 @@ redirect_from:
   opacity: 0;
 }
 
-/* Right text block */
 .profile-text-block {
   max-width: 600px;
+  font-size: 18px;
 }
 
 .profile-text-block h1 {
   margin-top: 0;
   color: #011f5b;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .profile-text-block a {
@@ -75,30 +72,19 @@ redirect_from:
 
   <div class="profile-text-block">
     <h1>Sijie Lin</h1>
-    <p>Ph.D. Candidate in Economics<br>
-    Rotman School of Management<br>
-    University of Toronto</p>
-    <p>
-    Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.
-    <p>
-    
-    <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a></p>
+    <p>Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.</p>
 
     <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights</p>
 
-    <p><strong>Committee:</strong>
-      <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>,
-      <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>,
-      <a href="https://www.avigoldfarb.com">Avi Goldfarb</a>,
+    <p><strong>Committee:</strong> 
+      <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, 
+      <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, 
+      <a href="https://www.avigoldfarb.com">Avi Goldfarb</a>, 
       <a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a>
     </p>
 
-    <p><strong>Education:</strong><br>
-      Ph.D. Economics, University of Toronto, 2020–Present<br>
-      M.A. Economics, University of Toronto, 2019–2020<br>
-      B.A. Economics, Fudan University, 2015–2019
-    </p>
+    <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a><br>
+    <strong>Address:</strong> 105 St George Street, Toronto, ON, Canada</p>
   </div>
 </div>
 
-------
