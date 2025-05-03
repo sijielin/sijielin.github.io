@@ -13,7 +13,7 @@ title                    : "Sijie Lin"
 title_separator          : "-"
 name                     : "Sijie Lin"
 description              : "Sijie Lin is a Ph.D. candidate in Economics at the Rotman School of Management, researching generative AI, innovation, and industrial organization."
-URL                      : "https://www.sijielin.com"
+url                      : "https://www.sijielin.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sijielin.github.io"
 
