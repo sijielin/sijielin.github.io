@@ -13,17 +13,19 @@ redirect_from:
   align-items: flex-start;
   justify-content: center;
   gap: 40px;
-  margin-top: 40px;
-  flex-wrap: wrap;
-  color: #000;
-  line-height: 1.6;
+  margin: 40px auto;
+  max-width: 1000px;
+  flex-wrap: nowrap;
 }
 
+/* Profile image column */
 .profile-image-block {
-  max-width: 400px;
+  max-width: 360px;
+  flex-shrink: 0;
   position: relative;
 }
 
+/* Main and hover image logic */
 .profile-image-block img {
   width: 100%;
   height: auto;
@@ -47,9 +49,11 @@ redirect_from:
   opacity: 0;
 }
 
+/* Text column */
 .profile-text-block {
-  max-width: 1000px;
+  max-width: 600px;
   font-size: 18px;
+  flex: 1;
 }
 
 .profile-text-block h1 {
@@ -61,6 +65,19 @@ redirect_from:
 .profile-text-block a {
   color: #1a0dab;
   text-decoration: none;
+}
+
+/* Responsive behavior for small screens */
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-text-block {
+    max-width: 100%;
+  }
 }
 </style>
 
@@ -87,4 +104,5 @@ redirect_from:
     <strong>Address:</strong> 105 St George Street, Toronto, ON, Canada</p>
   </div>
 </div>
+
 
