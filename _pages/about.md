@@ -14,13 +14,13 @@ redirect_from:
   justify-content: center;
   gap: 40px;
   margin-top: 40px;
-  flex-wrap: nowwrap;
+  flex-wrap: wrap;
   color: #000;
   line-height: 1.6;
 }
 
 .profile-image-block {
-  max-width: 240px;
+  max-width: 400px;
   position: relative;
 }
 
