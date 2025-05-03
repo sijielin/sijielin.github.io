@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sijie Lin"
 author_profile: false
 redirect_from: 
   - /about/
@@ -16,13 +16,13 @@ redirect_from:
       Sijie Lin
     </div>
     <div style="text-align: left; font-size: 18px; align-items: center;">
-      Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.
+      Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.<br>
       <br>
       <strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights <br>
       <br>
-      <a href="sijie.lin@mail.utoronto.ca">Email: sijie.lin@mail.utoronto.ca</a><br>
+      <strong>Committee:</strong> <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, <a href="https://www.avigoldfarb.com">Avi Goldfarb</a>, <a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a><br>
       <br>
-      </strong>Committee:</strong> <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, <a href="[https://sites.google.com/site/heskibarisaac](https://www.avigoldfarb.com/)">Avi Goldfarb</a>,<a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a>,<br>
+     <strong>Email:</strong> <a href="sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a><br>
     </div>
   
   </div>
