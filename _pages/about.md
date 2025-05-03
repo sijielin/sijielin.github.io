@@ -13,18 +13,16 @@ redirect_from:
   </div>
   <div class="flex-item-right" >
     <div style="text-align: center; font-size: 1em; align-items: center; color: #011f5b">
-      WAYNE YUAN GAO
+      Sijie Lin
     </div>
-    <div style="text-align: center; font-size: 18px; align-items: center;">
-      Assistant Professor of Economics<br>
-      University of Pennsylvania<br>
+    <div style="text-align: left; font-size: 18px; align-items: center;">
+      Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.
       <br>
-      The Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 S 36th St, Philadelphia, PA 19104<br>
+      <strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights <br>
       <br>
-      <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
-      <a href="files/GaoWayne_CV.pdf">CV</a>,
-      <a href="https://github.com/wayne-y-gao">GitHub</a>,
-      <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
+      <a href="sijie.lin@mail.utoronto.ca">Email: sijie.lin@mail.utoronto.ca</a><br>
+      <br>
+      </strong>Committee:</strong> <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, <a href="[https://sites.google.com/site/heskibarisaac](https://www.avigoldfarb.com/)">Avi Goldfarb</a>,<a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a>,<br>
     </div>
   
   </div>
@@ -32,15 +30,9 @@ redirect_from:
 
 <br />
 
-**Academic Appointments:**
-* Assistant Professor of Economics, University of Pennsylvania, 2020-current.
-* Visiting Assistant Professor of Economics, Harvard University, Spring 2022.
-* Lecturer, University of Pennsylvania, 2019-2020.
 
 **Education:**
-* Ph.D. Economics, Yale University, 2019.​ 
-* M.Phil. Economics, Yale University, 2016.
-* M.A. Economics, Duke University, 2014.
-* B. Economics & Finance, University of Hong Kong, 2012.
+* Ph.D. Economics, Rotman School of Management, University of Toronto, 2020-Present.​ 
+* M.A. Economics, Department of Economics, University of Toronto, 2019-2020.
+* B.A. Economics, Department of Economics, Fudan University, 2015-2019.
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
