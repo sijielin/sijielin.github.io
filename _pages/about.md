@@ -45,7 +45,7 @@ redirect_from:
   <div>
     <div class="hover-image-container">
       <img src="images/photo.jpg" class="profile-image main-image" alt="Profile Image">
-      <img src="images/ghibli_new.jpg" class="profile-image hover-image" alt="Hover Image">
+      <img src="images/ghibli_new.png" class="profile-image hover-image" alt="Hover Image">
     </div>
   </div>
 
