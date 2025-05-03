@@ -14,13 +14,13 @@ redirect_from:
   justify-content: center;
   gap: 40px;
   margin: 40px auto;
-  max-width: 1000px;
+  max-width: 1200px;
   flex-wrap: nowrap;
 }
 
 /* Profile image column */
 .profile-image-block {
-  max-width: 360px;
+  max-width: 320px;
   flex-shrink: 0;
   position: relative;
 }
@@ -72,7 +72,7 @@ redirect_from:
   .profile-container {
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: left;
   }
 
   .profile-text-block {
