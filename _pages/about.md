@@ -38,7 +38,7 @@ redirect_from:
   <div class="flex-item-left" style="text-align: center;">
     <div class="hover-image-container" style="width: 100%;">
       <img src="images/photo.jpg" class="main-image" alt="Profile Image">
-      <img src="images/ghibli_new.jpg" class="hover-image" alt="Hover Image">
+      <img src="images/ghibli_new.png" class="hover-image" alt="Hover Image">
     </div>
   </div>
   <div class="flex-item-right" >
