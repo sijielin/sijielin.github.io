@@ -78,7 +78,10 @@ redirect_from:
     <p>Ph.D. Candidate in Economics<br>
     Rotman School of Management<br>
     University of Toronto</p>
-
+    <p>
+    Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.
+    <p>
+    
     <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a></p>
 
     <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights</p>
