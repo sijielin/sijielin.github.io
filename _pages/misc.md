@@ -26,9 +26,9 @@ author_profile: false
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const slides = [
-      "/files/what_is_sref/Slide1.JPG",
-      "/files/what_is_sref/Slide2.JPG",
-      "/files/what_is_sref/Slide3.JPG"
+      "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
+      "{{ '/files/what_is_sref/Slide2.JPG' | relative_url }}",
+      "{{ '/files/what_is_sref/Slide3.JPG' | relative_url }}"
     ];
 
     let current = 0;
