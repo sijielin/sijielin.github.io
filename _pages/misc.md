@@ -17,7 +17,7 @@ author_profile: false
 
 
 <div style="text-align:center">
-  <img id="slide" src="{{ '/files/what_is_sref/Slide1.jpg' | relative_url }}" style="max-width:100%; height:auto;">
+  <img id="slide" src="{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}" style="max-width:100%; height:auto;">
   <br>
   <button onclick="prevSlide()">⟵ Prev</button>
   <button onclick="nextSlide()">Next ⟶</button>
@@ -25,9 +25,9 @@ author_profile: false
 
 <script>
   const slides = [
-    "{{ '/files/what_is_sref/Slide1.jpg' | relative_url }}",
-    "{{ '/files/what_is_sref/Slide2.jpg' | relative_url }}",
-    "{{ '/files/what_is_sref/Slide3.jpg' | relative_url }}"
+    "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
+    "{{ '/files/what_is_sref/Slide2.JPG' | relative_url }}",
+    "{{ '/files/what_is_sref/Slide3.JPG' | relative_url }}"
     // Add more slides here in order
   ];
 
