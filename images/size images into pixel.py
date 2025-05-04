@@ -5,8 +5,12 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 img = Image.open("ghibli.png")
-resized_img = img.resize((400, 400))  # (width, height)
+resized_img = img.resize((300, 300))  # (width, height)
 resized_img.save("ghibli_new.png")
+
+img = Image.open("photo.jpg")
+resized_img = img.resize((300, 300))  # (width, height)
+resized_img.save("photo_new.jpg")
 
 # embed to create hover
 embed = """
