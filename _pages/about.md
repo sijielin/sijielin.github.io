@@ -5,7 +5,7 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-description: "Sijie Lin is a Ph.D. candidate in Economics at Rotman School of Management, University of Toronto. She studies the impact of generative AI on creative industries."
+description: "Sijie Lin is a Ph.D. candidate in Economics at Rotman School of Management, University of Toronto. She studies the impact of generative AI on creative industries. She does research about the copyright concerns related to AI training data disincentivize visual artists on DeviantArt to hide their artworks on the website. Her job market paper investigate the collaboration between generative AI and humans on visual art creations."
 keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation","sijie lin economics","sijie lin econ","sijie lin economic","sijie lin toronto","sijie lin uoft","sijie lin university of toronto","sijie lin rotman","sijie lin genai","sijie lin eap","sijie lin generative ai","sijie lin ai art","sijie lin ai painting","sijie lin ai drawing","sijie lin personal website","sijie lin website","sijie lin research","sijie lin innovation","sijie rotman","sijie economics","sijie lin property right","sijie lin copyright","sijie lin academic","sijie lin academia","sijie.lin@mail.utoronto.ca","sijie.lin@rotman.utoronto.ca","sijielin","sijielin rotman","sijielin economics","sijielin toronto"]
 
 ---
