@@ -17,36 +17,36 @@ author_profile: false
 
 
 <div style="text-align:center">
-  <img id="slide" src="{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}" style="max-width:100%; height:auto;">
+  <img id="slide" src="{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}" alt="Slide image" style="max-width:100%; height:auto;">
   <br>
-  <button onclick="prevSlide()">⟵ Prev</button>
-  <button onclick="nextSlide()">Next ⟶</button>
+  <button id="prevBtn">⟵ Prev</button>
+  <button id="nextBtn">Next ⟶</button>
 </div>
 
 <script>
-  const slides = [
-    "/files/what_is_sref/Slide1.JPG",
-    "/files/what_is_sref/Slide2.JPG",
-    "/files/what_is_sref/Slide3.JPG"
-    // Add more if needed
-  ];
+  document.addEventListener("DOMContentLoaded", function () {
+    const slides = [
+      "/files/what_is_sref/Slide1.JPG",
+      "/files/what_is_sref/Slide2.JPG",
+      "/files/what_is_sref/Slide3.JPG"
+    ];
 
-  let current = 0;
+    let current = 0;
 
-  function showSlide() {
-    document.getElementById("slide").src = slides[current];
-  }
+    function showSlide() {
+      document.getElementById("slide").src = slides[current];
+    }
 
-  function nextSlide() {
-    current = (current + 1) % slides.length;
-    showSlide();
-  }
+    document.getElementById("nextBtn").addEventListener("click", function () {
+      current = (current + 1) % slides.length;
+      showSlide();
+    });
 
-  function prevSlide() {
-    current = (current - 1 + slides.length) % slides.length;
-    showSlide();
-  }
+    document.getElementById("prevBtn").addEventListener("click", function () {
+      current = (current - 1 + slides.length) % slides.length;
+      showSlide();
+    });
 
-  // Optional: show correct image on load
-  window.onload = showSlide;
+    showSlide();  // Show the first slide
+  });
 </script>
