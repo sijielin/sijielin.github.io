@@ -24,6 +24,7 @@ author_profile: false
 </div>
 
 <script>
+  {% raw %} // Start escaping
   document.addEventListener("DOMContentLoaded", function () {
     const slides = [
       "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
@@ -54,4 +55,5 @@ author_profile: false
 
     showSlide();
   });
+  {% endraw %} // End escaping
 </script>
