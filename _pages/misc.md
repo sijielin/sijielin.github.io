@@ -16,11 +16,12 @@ author_profile: false
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
 
 
-<div class="slider" style="text-align:center">
-  <img id="slideImg" src="https://www.sijielin.com/files/what_is_sref/Slide1.JPG" alt="Slide 1" />
-  <br>
-  <button onclick="prevSlide()">⟵ Prev</button>
-  <button onclick="nextSlide()">Next ⟶</button>
+<div class="slider" style="text-align: center;">
+  <img id="slideImg" src="https://www.sijielin.com/files/what_is_sref/Slide1.JPG" alt="Slide 1" style="max-width: 100%; height: auto;" />
+  <div style="margin-top: 10px;">
+    <button onclick="prevSlide()">⟵ Prev</button>
+    <button onclick="nextSlide()">Next ⟶</button>
+  </div>
 </div>
 
 <script>
