@@ -16,3 +16,34 @@ author_profile: false
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
 
 
+<div style="text-align:center">
+  <img id="slide" src="{{ '/files/what_is_sref/Slide1.jpg' | relative_url }}" style="max-width:100%; height:auto;">
+  <br>
+  <button onclick="prevSlide()">⟵ Prev</button>
+  <button onclick="nextSlide()">Next ⟶</button>
+</div>
+
+<script>
+  const slides = [
+    "{{ '/files/what_is_sref/Slide1.jpg' | relative_url }}",
+    "{{ '/files/what_is_sref/Slide2.jpg' | relative_url }}",
+    "{{ '/files/what_is_sref/Slide3.jpg' | relative_url }}"
+    // Add more slides here in order
+  ];
+
+  let current = 0;
+
+  function showSlide() {
+    document.getElementById("slide").src = slides[current];
+  }
+
+  function nextSlide() {
+    current = (current + 1) % slides.length;
+    showSlide();
+  }
+
+  function prevSlide() {
+    current = (current - 1 + slides.length) % slides.length;
+    showSlide();
+  }
+</script>
