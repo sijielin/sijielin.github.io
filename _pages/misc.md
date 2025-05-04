@@ -12,7 +12,7 @@ author_profile: false
 - [Can people tell the difference between AI arts and human arts?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 - [Karla Ortiz's blog: Why AI Models are not inspired like humans](https://www.kortizblog.com/blog/why-ai-models-are-not-inspired-like-humans)
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
-- [A roboticist/skier/new triathlete who inspired my AI art researches](https://aliciachenw.github.io/)
+- [A roboticist/skier/triathlete who inspired my AI art researches](https://aliciachenw.github.io/)
 - **Guess who draws the Pikachu!**
 
 
