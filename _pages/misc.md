@@ -15,3 +15,5 @@ author_profile: false
 - [Karla Ortiz's blog: Why AI Models are not inspired like humans](https://www.kortizblog.com/blog/why-ai-models-are-not-inspired-like-humans)
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
 
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://www.sijielin.com/files/what_is_sref.pdf"
+        width="100%" height="600px" style="border:none;"></iframe>
