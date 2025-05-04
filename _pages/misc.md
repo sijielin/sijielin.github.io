@@ -24,36 +24,31 @@ author_profile: false
 </div>
 
 <script>
-  {% raw %} // Start escaping
+  {% raw %}
   document.addEventListener("DOMContentLoaded", function () {
     const slides = [
       "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
       "{{ '/files/what_is_sref/Slide2.JPG' | relative_url }}",
       "{{ '/files/what_is_sref/Slide3.JPG' | relative_url }}"
     ];
-
-    console.log("Slides array:", slides); // 👈 Check this in console
     
     let current = 0;
 
     function showSlide() {
-      console.log("Showing slide:", current, slides[current]); // 👈 Add this
       document.getElementById("slide").src = slides[current];
     }
 
     document.getElementById("nextBtn").addEventListener("click", function () {
-      console.log("Next button clicked"); // 👈 Check if this appears
       current = (current + 1) % slides.length;
       showSlide();
     });
 
     document.getElementById("prevBtn").addEventListener("click", function () {
-      console.log("Prev button clicked"); // 👈 Check if this appears
       current = (current - 1 + slides.length) % slides.length;
       showSlide();
     });
 
     showSlide();
   });
-  {% endraw %} // End escaping
+  {% endraw %}
 </script>
