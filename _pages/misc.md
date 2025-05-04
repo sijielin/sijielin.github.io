@@ -25,10 +25,10 @@ author_profile: false
 
 <script>
   const slides = [
-    "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
-    "{{ '/files/what_is_sref/Slide2.JPG' | relative_url }}",
-    "{{ '/files/what_is_sref/Slide3.JPG' | relative_url }}"
-    // Add more slides here in order
+    "/files/what_is_sref/Slide1.JPG",
+    "/files/what_is_sref/Slide2.JPG",
+    "/files/what_is_sref/Slide3.JPG"
+    // Add more if needed
   ];
 
   let current = 0;
@@ -46,4 +46,7 @@ author_profile: false
     current = (current - 1 + slides.length) % slides.length;
     showSlide();
   }
+
+  // Optional: show correct image on load
+  window.onload = showSlide;
 </script>
