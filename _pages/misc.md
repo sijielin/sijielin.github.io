@@ -7,6 +7,7 @@ author_profile: false
 ## Public Goods
 
 - [Advice for empirical papers](https://blogs.ubc.ca/khead/research/research-advice)
+- [Virtual Digital Economy Seminar](https://www.digitalecon.org/seminar)
 
 ## Interesting Things about AI Arts
 - [Can people tell the difference between AI arts and human arts?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
