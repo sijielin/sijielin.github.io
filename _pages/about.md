@@ -16,7 +16,7 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
   justify-content: center;
   gap: 40px;
   margin: 40px auto;
-  max-width: 1400px;
+  max-width: 1000px;
   flex-wrap: nowrap;
 }
 
