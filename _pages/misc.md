@@ -16,37 +16,39 @@ author_profile: false
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
 
 
-<div style="text-align:center">
-  <img id="slide" src="{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}" alt="Slide image" style="max-width:100%; height:auto;">
+<div class="slider">
+  <img id="slideImg" src="https://via.placeholder.com/400x200?text=Slide+1" alt="Slide 1" />
   <br>
-  <button id="prevBtn">⟵ Prev</button>
-  <button id="nextBtn">Next ⟶</button>
+  <button onclick="prevSlide()">❮ Prev</button>
+  <button onclick="nextSlide()">Next ❯</button>
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const slides = [
-      "{{ '/files/what_is_sref/Slide1.JPG' | relative_url }}",
-      "{{ '/files/what_is_sref/Slide2.JPG' | relative_url }}",
-      "{{ '/files/what_is_sref/Slide3.JPG' | relative_url }}"
-    ];
+  /* JavaScript Slider Code - wrapped in block comments to avoid // issues */
+  let slideIndex = 0;
+  const slides = [
+    "https://via.placeholder.com/400x200?text=Slide+1",
+    "https://via.placeholder.com/400x200?text=Slide+2",
+    "https://via.placeholder.com/400x200?text=Slide+3"
+  ];
 
-    let current = 0;
+  function showSlide(index) {
+    const img = document.getElementById("slideImg");
+    if (index < 0) slideIndex = slides.length - 1;
+    else if (index >= slides.length) slideIndex = 0;
+    else slideIndex = index;
+    img.src = slides[slideIndex];
+  }
 
-    function showSlide() {
-      document.getElementById("slide").src = slides[current];
-    }
+  function nextSlide() {
+    showSlide(slideIndex + 1);
+  }
 
-    document.getElementById("nextBtn").addEventListener("click", function () {
-      current = (current + 1) % slides.length;
-      showSlide();
-    });
+  function prevSlide() {
+    showSlide(slideIndex - 1);
+  }
 
-    document.getElementById("prevBtn").addEventListener("click", function () {
-      current = (current - 1 + slides.length) % slides.length;
-      showSlide();
-    });
-
-    showSlide();  // Show the first slide
-  });
+  // Initial display
+  showSlide(slideIndex);
 </script>
+
