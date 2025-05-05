@@ -6,7 +6,7 @@ author_profile: false
 
 ## Public Goods
 
-- [Advice for empirical papers](https://blogs.ubc.ca/khead/research/research-advice)
+- [Keith Head's advice for empirical papers](https://blogs.ubc.ca/khead/research/research-advice)
 - [Virtual digital economy seminar](https://www.digitalecon.org/seminar)
 
 ## Interesting Things about AI Arts
