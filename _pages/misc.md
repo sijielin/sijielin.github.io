@@ -18,7 +18,7 @@ author_profile: false
 
 
 <div class="slider" style="text-align: center;">
-  <img id="slideImg" src="https://www.sijielin.github.io/files/what_is_sref/Slide1.JPG" alt="Slide 1" style="max-width: 100%; height: auto;" />
+  <img id="slideImg" src="https://www.sijielin.com/files/what_is_sref/Slide1.JPG" alt="Slide 1" style="max-width: 100%; height: auto;" />
   <div style="margin-top: 10px;">
     <button onclick="prevSlide()">⟵ Prev</button>
     <button onclick="nextSlide()">Next ⟶</button>
@@ -29,9 +29,9 @@ author_profile: false
   /* JavaScript Slider Code - wrapped in block comments to avoid // issues */
   let slideIndex = 0;
   const slides = [
-    "https://www.sijielin.github.io/files/what_is_sref/Slide1.JPG",
-    "https://www.sijielin.github.io/files/what_is_sref/Slide2.JPG",
-    "https://www.sijielin.github.io/files/what_is_sref/Slide3.JPG"
+    "https://www.sijielin.com/files/what_is_sref/Slide1.JPG",
+    "https://www.sijielin.com/files/what_is_sref/Slide2.JPG",
+    "https://www.sijielin.com/files/what_is_sref/Slide3.JPG"
   ];
 
   function showSlide(index) {
