@@ -20,7 +20,6 @@ permalink: /sitemap.xml
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </url>
 
-  <!-- Other manually included pages -->
   <url>
     <loc>{{ site.url }}/files/CV.pdf</loc>
     <lastmod>2025-05-16T19:54:41+00:00</lastmod>
