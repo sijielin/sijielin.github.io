@@ -150,7 +150,7 @@ social:
 analytics:
   provider               :  "google-analytics-4"
   google:
-    tracking_id          : G-EE3CQJ0PDT
+    tracking_id          : G-NGPD7Y53PK
 
 
 # Reading Files
