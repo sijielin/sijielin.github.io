@@ -96,12 +96,12 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
 
     <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights</p>
 
-    <p><strong>Committee:</strong> 
-      <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, 
-      <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, 
-      <a href="https://www.avigoldfarb.com">Avi Goldfarb</a>, 
-      <a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a>
-    </p>
+    # <p><strong>Committee:</strong> 
+    #   <a href="https://matthewmitchelltoronto.weebly.com">Matthew Mitchell</a>, 
+    #   <a href="https://sites.google.com/site/heskibarisaac">Heski Bar-Isaac</a>, 
+    #   <a href="https://www.avigoldfarb.com">Avi Goldfarb</a>, 
+    #   <a href="https://discover.research.utoronto.ca/23819-ambarish-chandra">Ambarish Chandra</a>
+    # </p>
 
     <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a><br>
     <strong>Address:</strong> 105 St George Street, Toronto, ON, Canada</p>
