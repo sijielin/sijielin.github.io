@@ -31,7 +31,8 @@ author_profile: false
   const slides = [
     "https://sijielin.github.io/files/what_is_sref/Slide1.JPG",
     "https://sijielin.github.io/files/what_is_sref/Slide2.JPG",
-    "https://sijielin.github.io/files/what_is_sref/Slide3.JPG"
+    "https://sijielin.github.io/files/what_is_sref/Slide3.JPG",
+    "https://sijielin.github.io/files/what_is_sref/Slide4.JPG"
   ];
 
   function showSlide(index) {
