@@ -7,9 +7,8 @@ author_profile: false
 
 ## Working Papers
 
-- **Is Generative AI A Complement or Substitute to Human Creativity? (JMP)**  
+- **Evolving with New AI (JMP)**  
   <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>  
-  How does generative AI impact human creativity? Unlike many other innovations, generative AI is being used to automate specific aspects of the creative process. This paper investigates a setting where I observe all intermediate steps of visual art creation using an AI image generator. I find that, over time, artists become more efficient in using generative AI: they converge on their desired output more quickly, use fewer stopwords, and incorporate more style-related terms in their prompts. Analyzing rich prompt-level data, I show that artists construct prompts strategically, gradually adding words to prompts and changing important words earlier in the process. Using large language models, I convert output images into text and embeddings, which allows me to study whether artists converge to similar patterns as their experience accumulates. This study aims to study how generative AI shapes human creativity over time.
 
 - **Hiding From Generative AI**  
   <span style="font-size: 0.8em;">Revise and Resubmit, <span style="font-weight: bold; font-style: italic;">Quantitative Economics</span></span>  
