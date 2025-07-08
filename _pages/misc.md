@@ -7,6 +7,7 @@ author_profile: false
 ## Public Goods
 
 - [Keith Head's advice for empirical papers](https://blogs.ubc.ca/khead/research/research-advice)
+- [Jesse Shapiro's advice for presentations](https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf)
 - [Virtual digital economy seminar](https://www.digitalecon.org/seminar)
 
 ## Interesting Things about AI Arts
