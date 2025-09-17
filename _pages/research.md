@@ -7,7 +7,7 @@ author_profile: false
 
 ## Working Papers
 
-- **Shifting The Train of Thought: Effect of AI Development on Creative Works (JMP)**  
+- **Human Effort In Production With GenAI (JMP)**  
   <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>  
 
 - **Hiding From Generative AI**  
