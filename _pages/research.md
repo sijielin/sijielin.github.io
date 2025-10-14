@@ -9,6 +9,7 @@ author_profile: false
 
 - **Human Adaptation and Generative AI (JMP)**  
   <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>
+  
   Draft coming soon
 
 - **Hiding From Generative AI**  
