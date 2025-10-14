@@ -7,8 +7,9 @@ author_profile: false
 
 ## Working Papers
 
-- **Human Effort In Production With GenAI (JMP)**  
-  <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>  
+- **Human Adaptation and Generative AI (JMP)**  
+  <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>
+  Draft coming soon
 
 - **Hiding From Generative AI**  
   <span style="font-size: 0.8em;">Revise and Resubmit, <span style="font-weight: bold; font-style: italic;">Quantitative Economics</span></span>  
