@@ -67,7 +67,7 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
 
 <div class="profile-container">
   <div class="profile-image-block">
-    <img src="images/photo_new.jpg" alt="Profile Image">
+    <img src="images/photo.jpg" alt="Profile Image">
   </div>
 
   <div class="profile-text-block">
