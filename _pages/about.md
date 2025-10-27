@@ -78,7 +78,7 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
       
     <p><strong>You can find my CV <a href="https://sijielin.github.io/files/CV.pdf">here</a></strong></p>
 
-    <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation, Intellectual Property Rights</p>
+    <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Applied Microeconomics</p>
 
     <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a><br>
     <strong>Address:</strong> 105 St George Street, Toronto, ON, Canada</p>
