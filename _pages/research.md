@@ -18,4 +18,7 @@ author_profile: false
 
 ## Work In Progress
 
+- **Knowledge Spillovers in the Diffusion of Generative AI**
+- **Do AI Upgrades Increase the Value of Human Adaptation?**
+- **Are Human Users Correcting AI-Created Stereotypes?** with Ruiqi Sun (University of Hong Kong) and Siyuan Liu (University of Toronto)
 - **Platforms in Platform**  
