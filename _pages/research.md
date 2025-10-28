@@ -19,6 +19,11 @@ author_profile: false
 ## Work In Progress
 
 - **Knowledge Spillovers in the Diffusion of Generative AI**
-- **Do AI Upgrades Increase the Value of Human Adaptation?**
-- **Are Human Users Correcting AI-Created Stereotypes?** with Ruiqi Sun (University of Hong Kong) and Siyuan Liu (University of Toronto)
-- **Platforms in Platform**  
+- **Do Human Users Correct AI-Created Stereotypes?** with Ruiqi Sun (University of Hong Kong) and Siyuan Liu (University of Toronto)
+- **Platforms in Platform** (Second Year Paper)
+  <details>
+    <summary><strong>Show Abstract</strong></summary>
+    <p>
+    Some apps on platforms are themselves smaller platforms featuring their own app stores. All else equal, buyers are better off on a platform with more sellers and sellers are better off on a platform with more buyers. However, different buyers and sellers may prefer to be active on different platforms. Buyers may choose to use different platforms to access more targeted products, while sellers may use different platforms to avoid competition for buyers' attention. This paper argues that segmenting the market using smaller platforms can be profitable for the large platform, as it can charge different platform fees to sellers of different quality and keep buyers' attention to better sellers. This paper also shows conditions where the large platform might ban the smaller platform even though its presence would be socially beneficial.
+    </p>
+  </details>
