@@ -20,7 +20,7 @@ author_profile: false
 
 - **Knowledge Spillovers in the Diffusion of Generative AI**
 - **Do Human Users Correct AI-Created Stereotypes?**<br>
-  with Ruiqi Sun (University of Hong Kong) and Siyuan Liu (University of Toronto)
+  with [Ruiqi Sun](https://www.ruiqisun.com/) (University of Hong Kong) and [Siyuan Liu](http://www.siyuan-liu.com/) (University of Toronto)
 - **Platforms in Platform** (Second Year Paper)
   <details>
     <summary>Show Abstract</summary>
