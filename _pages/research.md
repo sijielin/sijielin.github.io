@@ -7,10 +7,9 @@ author_profile: false
 
 ## Working Papers
 
-- **Human Adaptation and Generative AI (JMP)**  
-  <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span>
-  
-  Draft coming soon!
+- **[Learning to Prompt: Human Adaptation in Production with Generative AI](https://www.sijie-lin.com/files/JMP.pdf) (JMP)**  
+  <span style="font-size: 0.8em; color: gray;">Presentations: University of Toronto 2025</span><br>
+  What is the role of human input in AI-assisted production? Humans interact with generative AI through combinations of words called prompts. A key feature of *human* input is *adaptation*: users dynamically modify their prompts based on their understanding of AI. I empirically investigate two types of adaptation: (1) adaptation to new AI versions, referring to how people change their prompts in response to AI upgrades; (2) adaptation to outputs from previous prompts, referring to how people adjust their prompts iteratively to converge on desired outcomes. I study this adaptation using prompt-level data from Midjourney, a leading AI image generator. First, users adapt to AI upgrades by writing different words in their prompts. By submitting prompts written for the old version to the new AI and vice versa, I decompose the output shifts as arising from prompt changes (73%), AI changes (20%), and an AI-human cross effect (7%), implying complementarity between AI and human inputs. Second, prompts evolve within the creative process of an artwork. I estimate a structural model of the creative process using the sequential search framework. Counterfactual shows that without human adaptation, users need three times more prompts to achieve data-observed results. Both results highlight the importance of human judgment and adaptation in the creative process.
 
 - **[Hiding From Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4793782)**  
   <span style="font-size: 0.8em;">Revise and Resubmit, <span style="font-weight: bold; font-style: italic;">Quantitative Economics</span></span>  
@@ -19,5 +18,13 @@ author_profile: false
 
 ## Work In Progress
 
-- **Platforms in Platform**  
-Platforms could be part of a larger platform like an app store. Even though there exists a positive cross-group network externality between buyers and sellers, there is still an incentive for buyers and sellers to segment into different platforms. Buyers may choose to use different platforms to access more targeted products, while sellers may use different platforms to avoid competition for buyers’ attention. This paper argues that segmenting the market using smaller platforms can be profitable for the large platform, as it can charge different platform fees to sellers of different quality and save buyers' attention to better sellers. This paper also shows that when market agglomeration is more profitable for the large platform, it may choose to ban smaller platforms, which could be socially inefficient as it may deter mediocre sellers from entering the market.
+- **Knowledge Spillovers in the Diffusion of Generative AI**
+- **Do Human Users Correct AI-Created Stereotypes?**<br>
+  with [Ruiqi Sun](https://www.ruiqisun.com/) (University of Hong Kong) and [Siyuan Liu](http://www.siyuan-liu.com/) (University of Toronto)
+- **Platforms in Platform** 
+  <details>
+    <summary>Show Abstract</summary>
+    <p>
+    Some apps on platforms are themselves smaller platforms featuring their own app stores. All else equal, buyers are better off on a platform with more sellers and sellers are better off on a platform with more buyers. However, different buyers and sellers may prefer to be active on different platforms. Buyers may choose to use different platforms to access more targeted products, while sellers may use different platforms to avoid competition for buyers' attention. This paper argues that segmenting the market using smaller platforms can be profitable for the large platform, as it can charge different platform fees to sellers of different quality and keep buyers' attention to better sellers. This paper also shows conditions where the large platform might ban the smaller platform even though its presence would be socially beneficial.
+    </p>
+  </details>
