@@ -7,7 +7,7 @@ author_profile: false
 
 
 - **Course Instructor: University of Toronto 2023**  
-  ECO 316: Applied Game Theory, Undergraduate level
+  ECO 316: Applied Game Theory, Undergraduate
 
 - **Teaching Assistant: University of Toronto 2019 - 2025**  
   Undergraduate: Industrial Organization; Quantitative Methods in Economics; Topics in Price Theory; Principles of Macroeconomics; Behavioral and Experimental Economics; Labor Economics
