@@ -10,6 +10,8 @@
 main:
   - title: "Research"
     url: /research/   
+  - title: "Teaching"
+    url: /teaching/   
   - title: "Miscellaneous"
     url: /misc/   
  
