@@ -72,7 +72,7 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
 
   <div class="profile-text-block">
     <h1>Sijie Lin</h1>
-    <p>Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the impact of generative AI on creative industries.</p>
+    <p>Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the economic impact of generative AI on creative industries.</p>
     
     <p><strong>I am on the 2025 - 2026 Job Market.</strong></p>
       
