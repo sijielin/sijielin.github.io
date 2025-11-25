@@ -10,7 +10,7 @@ author_profile: false
 - [Jesse Shapiro's advice for presentations](https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf)
 - [Virtual digital economy seminar](https://www.digitalecon.org/seminar)
 
-## Interesting Things about AI Arts
+## Interesting Things about AI Art
 - [Can people tell the difference between AI arts and human arts?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 - [Karla Ortiz's blog: Why AI Models are not inspired like humans](https://www.kortizblog.com/blog/why-ai-models-are-not-inspired-like-humans)
 - [Thousands of creators have signed the Statement on AI Training](https://authorsguild.org/news/sign-the-statement-on-ai-training/)
