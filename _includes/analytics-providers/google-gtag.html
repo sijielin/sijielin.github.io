@@ -1,0 +1,36 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  // 1. Define the list of European countries (EU, EEA, UK, CH)
+  var europeRegion = [
+    'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', // EU
+    'GB', // UK
+    'CH', 'NO', 'IS', 'LI' // EFTA/EEA
+  ];
+
+  // 2. Set default consent: Denied for Europe, Granted for everyone else
+  gtag('consent', 'default', {
+    'ad_storage': 'granted',
+    'analytics_storage': 'granted',
+    'ad_user_data': 'granted',
+    'ad_personalization': 'granted',
+    'region': europeRegion,
+    'wait_for_update': 500
+  });
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'region': europeRegion
+  });
+
+  // 3. Initialize GA as normal
+  gtag('js', new Date());
+  gtag('config', '{{ site.analytics.google.tracking_id }}', { 
+    'anonymize_ip': {{ site.analytics.google.anonymize_ip | default: false }} 
+  });
+</script>
