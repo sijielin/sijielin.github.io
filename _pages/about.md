@@ -80,9 +80,9 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
 
     <p><strong>Email:</strong> <a href="mailto:sijie.lin@uni-mannheim.de">sijie.lin@uni-mannheim.de</a><br>
     <strong>Address:</strong><br> 
-    Department of Economics
-    L 7, 3–5
-    68161 Mannheim
-    Germany</p>
+    <p>Department of Economics<br>
+    <p>L 7, 3–5<br>
+    <p>68161 Mannheim<br>
+    <p>Germany</p>
   </div>
 </div>
