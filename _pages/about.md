@@ -5,8 +5,8 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-description: "Sijie Lin's personal website. Sijie Lin is a Ph.D. candidate in Economics at Rotman School of Management, University of Toronto. She studies the impact of generative AI on creative industries. She does research about the copyright concerns related to AI training data disincentivize visual artists on DeviantArt to hide their artworks on the website. Her job market paper investigate the collaboration between generative AI and humans on visual art creations."
-keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation","sijie lin economics","sijie lin econ","sijie lin economic","sijie lin toronto","sijie lin uoft","sijie lin university of toronto","sijie lin rotman","sijie lin genai","sijie lin eap","sijie lin generative ai","sijie lin ai art","sijie lin ai painting","sijie lin ai drawing","sijie lin personal website","sijie lin website","sijie lin research","sijie lin innovation","sijie rotman","sijie economics","sijie lin property right","sijie lin copyright","sijie lin academic","sijie lin academia","sijie.lin@mail.utoronto.ca","sijie.lin@rotman.utoronto.ca","sijielin","sijielin rotman","sijielin economics","sijielin toronto"]
+description: "Sijie Lin's personal website. Sijie Lin is a Ph.D. graduate in Economics at Rotman School of Management, University of Toronto. She is now an assistant professor in Economics at the University of Mannheim. She studies the impact of generative AI on creative industries. She does research about the copyright concerns related to AI training data disincentivize visual artists on DeviantArt to hide their artworks on the website. Her job market paper investigate the collaboration between generative AI and humans on visual art creations."
+keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation","sijie lin economics","sijie lin econ","sijie lin economic","sijie lin toronto","sijie lin uoft","sijie lin university of toronto","sijie lin rotman","sijie lin genai","sijie lin eap","sijie lin generative ai","sijie lin ai art","sijie lin ai painting","sijie lin ai drawing","sijie lin personal website","sijie lin website","sijie lin research","sijie lin innovation","sijie rotman","sijie economics","sijie lin property right","sijie lin copyright","sijie lin academic","sijie lin academia","sijie.lin@mail.utoronto.ca","sijie.lin@rotman.utoronto.ca","sijielin","sijielin rotman","sijielin economics","sijielin toronto", "mannheim"]
 ---
 
 <style>
@@ -72,15 +72,17 @@ keywords: ["Sijie Lin", "Economics PhD", "Generative AI", "Rotman", "Innovation"
 
   <div class="profile-text-block">
     <h1>Sijie Lin</h1>
-    <p>Welcome! I'm Sijie Lin (林思捷), a Ph.D. Candidate in Economics at Rotman School of Management, University of Toronto. My research focuses on the economic impact of generative AI on creative industries.</p>
-    
-    <p>I will join the University of Mannheim as an Assistant Professor of Economics in Fall 2026.</p>
+    <p>Welcome! I'm Sijie Lin (林思捷), an Assistant Professor of Economics at the University of Mannheim. My research focuses on the economic impact of generative AI on creative industries.</p>
       
     <p><strong>You can find my CV <a href="https://sijielin.github.io/files/CV.pdf">here</a></strong></p>
 
-    <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Applied Microeconomics</p>
+    <p><strong>Research Interests:</strong> Industrial Organization, Artificial Intelligence, Innovation</p>
 
-    <p><strong>Email:</strong> <a href="mailto:sijie.lin@mail.utoronto.ca">sijie.lin@mail.utoronto.ca</a><br>
-    <strong>Address:</strong> 105 St George Street, Toronto, ON, Canada</p>
+    <p><strong>Email:</strong> <a href="mailto:sijie.lin@uni-mannheim.de">sijie.lin@uni-mannheim.de</a><br>
+    <strong>Address:</strong><br> 
+    Department of Economics
+    L 7, 3–5
+    68161 Mannheim
+    Germany</p>
   </div>
 </div>
