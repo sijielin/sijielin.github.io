@@ -13,7 +13,7 @@ author_profile: false
   <summary style="cursor: pointer; font-weight: 500;">Abstract</summary>
 
   <div style="color: #777; font-size: 0.9em; font-style: italic; margin-top: 0.5em; margin-bottom: 0.5em;">
-  This paper and “Human Adaptation in the Creative Process with Generative AI” were previously circulated together as “Learning to Prompt: Human Adaptation in Production with Generative AI.”
+  (This paper and “Human Adaptation in the Creative Process with Generative AI” were previously circulated together as “Learning to Prompt: Human Adaptation in Production with Generative AI.”)
   </div>
 
   <div>
@@ -27,7 +27,7 @@ author_profile: false
   <summary style="cursor: pointer; font-weight: 500;">Abstract</summary>
 
   <div style="color: #777; font-size: 0.9em; font-style: italic; margin-top: 0.5em; margin-bottom: 0.5em;">
-  This paper and “Evolving with Generative AI” were previously circulated together as “Learning to Prompt: Human Adaptation in Production with Generative AI.”
+  (This paper and “Evolving with Generative AI” were previously circulated together as “Learning to Prompt: Human Adaptation in Production with Generative AI.”)
   </div>
 
   <div>
