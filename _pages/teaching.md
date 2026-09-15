@@ -9,7 +9,7 @@ author_profile: false
   Empirical IO (Ph.D.): since 2026
 
 - **University of Toronto**  
-  Applied Game Theory (Undergraduate): 2023
+  Applied Game Theory (Bachelor): 2023
 
 
 
